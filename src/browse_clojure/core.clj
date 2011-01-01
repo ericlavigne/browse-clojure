@@ -1,6 +1,7 @@
 (ns browse-clojure.core
   (:require [net.cgrand.enlive-html :as enlive-html]
-            [clj-http.client :as http]))
+            [clj-http.client :as http]
+            [clojure.contrib.json :as json]))
 
 (def fetching-throttle (agent (org.joda.time.DateTime.)))
 
@@ -21,16 +22,6 @@
     (send-off fetching-throttle fetcher)
     @result))
 
-(defn fetch-clojars-repo-names []
-  (let [html-tree (enlive-html/html-resource 
-                   (java.net.URL. "http://clojars.org/repo/"))
-        link-texts (map enlive-html/text
-                        (enlive-html/select html-tree [:td :a]))
-        repo-texts (drop 3 
-                         (take-while #(not (= % "all-jars.clj"))
-                                     link-texts))]
-    repo-texts))
-
 (defn fetch-clojars-poms []
   (let [pom-list-text (:body (http/get "http://clojars.org/repo/all-poms.txt"))
         pom-relative-addresses (remove #(empty? %)
@@ -40,3 +31,25 @@
                                     pom-relative-addresses)]
     pom-absolute-addresses))
 
+(defn fetch-json [address]
+  (json/read-json (fetch address)))
+
+(defn github-api [& args]
+  (fetch-json (str "http://github.com/api/v2/json/"
+                   (apply str (interpose "/" args)))))
+
+(defn user-projects [user]
+  (:repositories (github-api "repos" "show" user)))
+
+(defn project-contributors [user project]
+  (map (fn [contributor] [(:login contributor) (:contributions contributor)])
+       (:contributors (github-api "repos" "show" user project "contributors"))))
+
+(defn project-network [user project]
+  (:network (github-api "repos" "show" user project "network")))
+
+(defn project-languages [user project]
+  (:languages (github-api "repos" "show" user project "languages")))
+
+(defn project-includes-clojure [user project]
+  (:Clojure (project-languages user project)))

@@ -16,3 +16,15 @@
 (deftest test-fetch-clojars-poms
   (is (not-empty (fetch-clojars-poms)) 
       "Clojars lists at least one project."))
+
+(deftest test-github-api
+  (is (some #(= "browse-clojure"
+                (:name %))
+            (user-projects "ericlavigne"))
+      "browse-clojure is one of the projects in my GitHub account.")
+  (is (some #(= "ericlavigne"
+                (first %))
+            (project-contributors "ericlavigne" "browse-clojure"))
+      "I am one of the contributors to the browse-clojure project.")
+  (is (project-includes-clojure "ericlavigne" "browse-clojure")
+      "The browse-clojure project contains Clojure code."))
