@@ -34,9 +34,12 @@
 (defn fetch-json [address]
   (json/read-json (fetch address)))
 
+(defn github-raw [& args]
+  (fetch (str "http://github.com/api/v2/json/"
+              (apply str (interpose "/" args)))))
+
 (defn github-api [& args]
-  (fetch-json (str "http://github.com/api/v2/json/"
-                   (apply str (interpose "/" args)))))
+  (json/read-json (apply github-raw args)))
 
 (defn user-projects [user]
   (:repositories (github-api "repos" "show" user)))
@@ -53,3 +56,17 @@
 
 (defn project-includes-clojure [user project]
   (:Clojure (project-languages user project)))
+
+(defn project-file-listing [user project]
+  (:blobs (github-api "blob/all" user project "master")))
+
+(defn github-file [user project sha]
+  (github-raw "blob/show" user project sha))
+
+(defn project-files [user project]
+  (let [file-listing (project-file-listing user project)
+        lein-filenames (filter #(.contains (name %) "project.clj")
+                               (keys file-listing))
+        lein-files (map #(github-file user project (% file-listing))
+                        lein-filenames)]
+    lein-files))

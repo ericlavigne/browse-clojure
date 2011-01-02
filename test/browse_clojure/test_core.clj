@@ -28,3 +28,13 @@
       "I am one of the contributors to the browse-clojure project.")
   (is (project-includes-clojure "ericlavigne" "browse-clojure")
       "The browse-clojure project contains Clojure code."))
+
+(deftest test-project-files
+  (let [bc-proj-files (project-files "ericlavigne" "browse-clojure")]
+    (is (= 1 (count bc-proj-files))
+        "This project has one project file: project.clj")
+    (let [proj-form (read-string (first bc-proj-files))]
+      (is (= 'defproject (first proj-form))
+          "The project file contains a defproject form.")
+      (is (= 'browse-clojure (second proj-form))
+          "The project file contains the project name."))))
