@@ -128,10 +128,13 @@
         next-gen-programmers (clojure.set/difference (set (mapcat (fn [proj] (keys (:contributions proj)))
                                                                   projects-with-enough-contributors))
                                                      (:programmers old-generation))
-        new-project-map (merge-with merge-projects
-                                    (:projects old-generation)
-                                    (zipmap (map :name projects-with-enough-contributors)
-                                            projects-with-enough-contributors))]
+        new-project-map (reduce (fn [proj-map new-proj]
+                                  (merge-with merge-projects
+                                              proj-map
+                                              {(:name new-proj)
+                                               new-proj}))
+                                (:projects old-generation)
+                                projects-with-enough-contributors)]
     {:programmers (clojure.set/union (:programmers old-generation)
                                      next-gen-programmers)
      :programmers-new-gen next-gen-programmers
