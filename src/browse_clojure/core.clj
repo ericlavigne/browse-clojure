@@ -176,3 +176,32 @@
           (.append sb (str programmer " _" (:name project) " "
                            (levels programmer) "\r\n")))))
     (.toString sb)))
+
+(defn csv-line [contents]
+  (str (apply str
+              (interpose ","
+                         (map (fn [item]
+                                (str "\"" item "\""))
+                              contents)))
+       "\r\n"))
+
+(defn convert-to-csv [network]
+  (let [prog-list (vec (remove #(= % "clojure")
+                               (vec (:programmers network))))
+        proj-list (vec (vals (:projects network)))
+        sb (StringBuilder.)]
+    (.append sb (csv-line (cons "ID"
+                                (map (fn [prog]
+                                       (if (= prog "jclouds")
+                                         "_jclouds" prog))
+                                     prog-list))))
+    (doseq [proj proj-list]
+      (let [levels (contribution-levels (:contributions proj))]
+        (.append sb (csv-line (cons (:name proj)
+                                    (map (fn [prog]
+                                           (if (levels prog)
+                                             (levels prog)
+                                             0))
+                                         prog-list))))))
+    (.toString sb)))
+    
