@@ -2,7 +2,8 @@
   (:require [net.cgrand.enlive-html :as enlive-html]
             [clj-http.client :as http]
             [clojure.contrib.json :as json]
-            clojure.set))
+            clojure.set)
+  (:use [clojure.contrib.seq :only (positions)]))
 
 (def fetching-throttle (agent (org.joda.time.DateTime.)))
 
@@ -141,3 +142,37 @@
      :programmers-by-gen (conj (:programmers-by-gen old-generation)
                                next-gen-programmers)
      :projects new-project-map}))
+
+(def company-affiliations
+     {"Relevance" #{}
+      "Sonian" #{}})
+
+(defn snowball-generation [programmer generations]
+  (first (positions #(% programmer) generations)))
+
+(defn contribution-levels [contributions]
+  (zipmap (map first (reverse (sort-by second contributions)))
+          (concat [5 4 3 2] (repeat (count contributions) 1))))
+
+(defn convert-to-vna [network]
+  (let [sb (StringBuilder.)]
+    (.append sb "*Node data\r\n")
+    (.append sb "ID, role, snowball_generation\r\n")
+    (doseq [programmer (:programmers network)]
+      (.append sb (str " " programmer " programmer "
+                       (snowball-generation programmer
+                                            (:programmers-by-gen network))
+                       "\r\n")))
+    (doseq [project (vals (:projects network))]
+      (.append sb (str " _" (:name project) " project "
+                       (snowball-generation (:owner project)
+                                            (:programmers-by-gen network))
+                       "\r\n")))
+    (.append sb "*Tie data\r\n")
+    (.append sb "from to contribution\r\n")
+    (doseq [project (vals (:projects network))]
+      (let [levels (contribution-levels (:contributions project))]
+        (doseq [programmer (keys levels)]
+          (.append sb (str programmer " _" (:name project) " "
+                           (levels programmer) "\r\n")))))
+    (.toString sb)))

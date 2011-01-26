@@ -1,0 +1,1637 @@
+*Node data
+ID, role, snowball_generation
+ JulianMorrison programmer 3
+ kohsuke programmer 3
+ scode programmer 2
+ mkristian programmer 4
+ sramsay programmer 2
+ hlship programmer 1
+ josephwilk programmer 3
+ ggramlich programmer 4
+ abyx programmer 4
+ bmabey programmer 3
+ hgiddens programmer 2
+ joubertnel programmer 3
+ superbobry programmer 4
+ MrHus programmer 3
+ dbishop programmer 2
+ ivey programmer 2
+ aredington programmer 1
+ benfulton programmer 4
+ stuartsierra programmer 1
+ Corie programmer 3
+ dakrone programmer 2
+ sethtrain programmer 2
+ jesperronn programmer 4
+ ghoseb programmer 2
+ ihodes programmer 2
+ rickmode programmer 2
+ mkhl programmer 4
+ fhd programmer 2
+ edbond programmer 3
+ miaubiz programmer 2
+ mattrepl programmer 2
+ LupusDei programmer 4
+ drankard programmer 4
+ the-kenny programmer 2
+ trptcolin programmer 1
+ erikcw programmer 3
+ wmorganjr programmer 2
+ vishnugopal programmer 3
+ Serabe programmer 2
+ budu programmer 2
+ manutter51 programmer 3
+ mclark programmer 1
+ darrinholst programmer 3
+ ugglan programmer 2
+ neilmock programmer 3
+ somnium programmer 2
+ danlarkin programmer 2
+ clojure programmer 0
+ nipra programmer 4
+ remleduff programmer 1
+ jackdempsey programmer 2
+ MayDaniel programmer 3
+ heyZeus programmer 3
+ mtyaka programmer 2
+ jwr programmer 3
+ jColeChanged programmer 3
+ clizzin programmer 3
+ xeqi programmer 2
+ bendlas programmer 2
+ clojure-build programmer 1
+ marvinthepa programmer 2
+ amouat programmer 3
+ jeffvalk programmer 2
+ mmcgrana programmer 2
+ olabini programmer 2
+ gojko programmer 4
+ drt programmer 2
+ icylisper programmer 2
+ jholloway7 programmer 4
+ ashafa programmer 2
+ hdurer programmer 3
+ pmbauer programmer 2
+ chrisvest programmer 2
+ aria42 programmer 3
+ bgruber programmer 3
+ kedardave programmer 3
+ kurtschelfthout programmer 2
+ mattdw programmer 2
+ Chousuke programmer 2
+ headius programmer 3
+ TerjeNorderhaug programmer 2
+ senny programmer 4
+ robertpostill programmer 3
+ defunkt programmer 4
+ pepijndevos programmer 2
+ markmfredrickson programmer 2
+ ck programmer 2
+ Kaali programmer 3
+ stuarthalloway programmer 1
+ thomaslee programmer 3
+ davidsantiago programmer 2
+ lancepantz programmer 2
+ jclouds programmer 2
+ bpsm programmer 1
+ boredomist programmer 2
+ maravillas programmer 2
+ snoury programmer 3
+ hugoduncan programmer 2
+ sammyt programmer 3
+ kreg programmer 2
+ mw10013 programmer 4
+ sonatype programmer 3
+ rottcodd programmer 2
+ issuu programmer 4
+ rzezeski programmer 2
+ ppierre programmer 3
+ zehua programmer 2
+ Kobold programmer 3
+ jediwhale programmer 4
+ leungwk programmer 2
+ cgrand programmer 1
+ LauJensen programmer 2
+ tav programmer 4
+ ubolonton programmer 2
+ achim programmer 1
+ nullstyle programmer 2
+ tbatchelli programmer 3
+ dm3 programmer 3
+ Yasushi programmer 4
+ artisonian programmer 2
+ quek programmer 3
+ fiatmoney programmer 2
+ mehrheit programmer 2
+ kaitanie programmer 3
+ tebeka programmer 3
+ jkk programmer 2
+ hiredman programmer 1
+ apgwoz programmer 3
+ scramjet programmer 2
+ christophermaier programmer 3
+ achin programmer 3
+ mcav programmer 3
+ clare programmer 4
+ jochu programmer 2
+ takikawa programmer 3
+ macourtney programmer 2
+ weavejester programmer 1
+ carlism programmer 3
+ offby1 programmer 2
+ fukamachi programmer 3
+ mikedouglas programmer 2
+ cosmin programmer 1
+ kotarak programmer 1
+ jstrate programmer 2
+ ogrisel programmer 3
+ babo programmer 3
+ bobby programmer 2
+ emonty programmer 2
+ schmax programmer 4
+ rnewman programmer 1
+ timander programmer 4
+ mmikulicic programmer 2
+ honesthacker programmer 3
+ whalliburton programmer 2
+ arbscht programmer 2
+ rje programmer 3
+ fred-o programmer 2
+ jbarreneche programmer 3
+ gilaras programmer 2
+ dmiller programmer 1
+ talios programmer 2
+ robinbrandtfdc programmer 4
+ henningjensen programmer 3
+ shoover programmer 2
+ robwolfe programmer 2
+ neotyk programmer 2
+ rpl programmer 4
+ manuel-woelker programmer 2
+ jdillon programmer 3
+ scottjad programmer 2
+ spice programmer 4
+ clarkware programmer 2
+ bradford programmer 2
+ vishnu programmer 3
+ spicycode programmer 2
+ ericlavigne programmer 2
+ jeandenis programmer 3
+ briancarper programmer 3
+ sumbach programmer 2
+ purcell programmer 2
+ ztellman programmer 2
+ abedra programmer 1
+ stephenroller programmer 3
+ otfrom programmer 3
+ smuehlst programmer 2
+ jpalmucci programmer 2
+ mikehinchey programmer 1
+ Heffalump programmer 1
+ dhanji programmer 4
+ pelle programmer 2
+ hircus programmer 2
+ automata programmer 3
+ zamaterian programmer 3
+ mwizeman programmer 2
+ mt502 programmer 3
+ ovstetun programmer 3
+ senior programmer 3
+ mjm programmer 2
+ nathanmarz programmer 4
+ wg programmer 2
+ scgilardi programmer 1
+ hseeberger programmer 3
+ vgeshel programmer 3
+ kurtharriger programmer 3
+ regularfry programmer 2
+ glv programmer 2
+ dysinger programmer 1
+ alexott programmer 1
+ Licenser programmer 2
+ rainbowbreeze programmer 3
+ laurentpetit programmer 2
+ troussan programmer 3
+ christianberg programmer 3
+ rstehwien programmer 2
+ kek programmer 3
+ bard programmer 4
+ abrenk programmer 1
+ torbjornvatn programmer 3
+ blesslee programmer 2
+ bhurt programmer 1
+ arohner programmer 1
+ jhannes programmer 4
+ punya programmer 3
+ rmm5t programmer 4
+ lozh programmer 2
+ johnpaulett programmer 4
+ citizen428 programmer 2
+ samaaron programmer 2
+ jondistad programmer 2
+ arsatiki programmer 2
+ Raynes programmer 2
+ abscondment programmer 2
+ swannodette programmer 2
+ bmaso programmer 3
+ azriphale programmer 3
+ tomfaulhaber programmer 1
+ drewr programmer 1
+ richardlawrence programmer 4
+ unclebob programmer 3
+ brentonashworth programmer 2
+ marick programmer 2
+ hjiang programmer 2
+ mozinator programmer 3
+ fbreuer programmer 2
+ rrees programmer 4
+ mojombo programmer 3
+ phtrivier programmer 3
+ akhudek programmer 2
+ goodmike programmer 2
+ datskos programmer 2
+ doooks programmer 3
+ straszheimjeffrey programmer 1
+ juergenhoetzel programmer 2
+ rosejn programmer 3
+ djpowell programmer 1
+ paulrosania programmer 3
+ devender programmer 1
+ alandipert programmer 1
+ mjul programmer 4
+ tyler programmer 2
+ liebke programmer 2
+ oc programmer 3
+ jeroenvloothuis programmer 3
+ digash programmer 2
+ zkim programmer 2
+ joegallo programmer 2
+ orlandodarhill programmer 4
+ alexstaytuned programmer 2
+ BruceDClayton programmer 4
+ gaffo programmer 4
+ drewolson programmer 3
+ tayssir programmer 2
+ GeorgeJahad programmer 3
+ matthewmccullough programmer 3
+ benilovj programmer 4
+ BestFriendChris programmer 3
+ davidjameshumphreys programmer 2
+ greenhornet programmer 4
+ yn programmer 2
+ saarons programmer 3
+ raek programmer 1
+ marktriggs programmer 2
+ shykes programmer 3
+ Chouser programmer 1
+ ataggart programmer 1
+ deltam programmer 4
+ abhijith programmer 3
+ pkuznets programmer 4
+ aav programmer 3
+ joodie programmer 2
+ cburroughs programmer 2
+ liwp programmer 1
+ mattiasholmqvist programmer 3
+ champness programmer 3
+ fsodomka programmer 1
+ jamiltron programmer 2
+ tcrayford programmer 2
+ rosado programmer 2
+ marisaseal programmer 4
+ programble programmer 2
+ blinks programmer 2
+ johnwayner programmer 2
+ nealeoc programmer 4
+ andreaturli programmer 3
+ markokocic programmer 3
+ stevej programmer 2
+ rapaul programmer 4
+ mikem programmer 3
+ segohfdc programmer 4
+ davidrupp programmer 1
+ liberty programmer 4
+ TrevorBender programmer 4
+ febeling programmer 5
+ teigen programmer 3
+ thraxil programmer 2
+ aking programmer 3
+ slagyr programmer 2
+ mva programmer 3
+ hugojosefson programmer 4
+ marccroom programmer 2
+ burke programmer 4
+ bardobrze programmer 2
+ klang programmer 2
+ marijnh programmer 4
+ dsedivec programmer 2
+ cemerick programmer 1
+ hgavin programmer 3
+ glynnm programmer 2
+ martinmcnulty programmer 3
+ lloydhome programmer 2
+ aria42test programmer 3
+ mirakle programmer 3
+ ohpauleez programmer 3
+ technomancy programmer 1
+ abrooks programmer 2
+ richhickey programmer 1
+ MarkusGaertner programmer 4
+ aslakhellesoy programmer 3
+ skuro programmer 3
+ i-m-fit-r-u programmer 4
+ duck1123 programmer 2
+ bagucode programmer 2
+ antoniogarrote programmer 4
+ triddell programmer 3
+ gar3thjon3s programmer 3
+ pjt programmer 1
+ pastjean programmer 3
+ khinsen programmer 1
+ adamfixflyer programmer 2
+ josh programmer 4
+ santervo programmer 3
+ andrewvc programmer 2
+ gcv programmer 3
+ velaskec programmer 4
+ mreid programmer 3
+ pal programmer 4
+ pupeno programmer 2
+ puredanger programmer 1
+ michalmarczyk programmer 1
+ spasam programmer 3
+ rubbish programmer 2
+ chellmuth programmer 4
+ remvee programmer 3
+ duelinmarkers programmer 3
+ pjstadig programmer 2
+ bsteuber programmer 1
+ adragomir programmer 2
+ choas programmer 3
+ r0man programmer 2
+ ato programmer 3
+ chicagoscala programmer 5
+ jakemcc programmer 2
+ hamilton programmer 3
+ kunley programmer 3
+ fogus programmer 1
+ isidore programmer 4
+ Engelberg programmer 1
+ soyrochus programmer 2
+ tomo programmer 2
+ alienscience programmer 2
+ timothypratley programmer 1
+ apauley programmer 2
+ antifun programmer 4
+ bentmann programmer 3
+ ragnard programmer 2
+ travis programmer 2
+ shaug programmer 3
+ deanwampler programmer 4
+ sroccaserra programmer 2
+ mtnygard programmer 2
+ hadashi programmer 2
+ redinger programmer 2
+ vu3rdd programmer 4
+ splix programmer 3
+ ninjudd programmer 1
+ wilkes programmer 2
+ dje programmer 3
+ dhomann programmer 3
+ geoffsalmon programmer 2
+ lrenn programmer 2
+ pmoriarty programmer 2
+ gmwils programmer 3
+ polypus74 programmer 3
+ amalloy programmer 2
+ humphrej programmer 2
+ teropa programmer 2
+ jimm programmer 3
+ mikejs programmer 3
+ ccollins programmer 3
+ _Conjure project 2
+ _byte-spec project 3
+ _clojail project 2
+ _clojure-clr project 1
+ _penumbra project 2
+ _pallet project 2
+ _clj project 2
+ _text-ann project 3
+ _clj-swingrepl project 1
+ _epcchckspc project 2
+ _zilch project 4
+ _clj-sql project 2
+ _nth project 1
+ _apricot-soup project 3
+ _mochi project 3
+ _clojurebot project 1
+ _fitnessebacklogfixes project 4
+ _Midje project 2
+ _clj-android project 3
+ _clojure-couchdb project 2
+ _appengine-magic project 3
+ _http.async.client project 2
+ _uncle project 1
+ _clojure-tmbundle project 2
+ _clj-glob project 2
+ _clojure project 3
+ _lamina project 2
+ _difform project 2
+ _clojars-web project 3
+ _clojure-neo4j project 2
+ _clout project 1
+ _jakemccrary.com project 2
+ _overtone project 3
+ _clojure-android project 3
+ _bunny project 2
+ _ring-httpcore-adapter project 2
+ _lazytest project 1
+ _jiraph project 1
+ _lein-difftest project 2
+ _clostache project 3
+ _in-a-row project 2
+ _clojureOrbit project 2
+ _clojure-rabbitmq project 1
+ _fetcher project 2
+ _clojure-http-client project 3
+ _karras project 2
+ _hassium project 1
+ _jclouds project 2
+ _mutt project 2
+ _cloneit project 2
+ _leiningen-war project 2
+ _scriptjure project 2
+ _tryclojure project 2
+ _autodoc project 1
+ _textmate-clojure project 2
+ _debug-repl project 2
+ _testbuilder project 2
+ _crane project 2
+ _clj-gae-datastore project 3
+ _robots project 2
+ _drift project 2
+ _clj-stacktrace project 2
+ _clojure-twitter project 2
+ _congomongo project 2
+ _vimclojure project 2
+ _inflections-clj project 2
+ _circumspec project 3
+ _trammel project 1
+ _tools.nrepl project 0
+ _clj-slick-tank project 3
+ _postal project 2
+ _clojure-web project 1
+ _clj-ml project 3
+ _clojure-solr project 2
+ _clojure-config project 4
+ _pallet-lein project 4
+ _clj-oauth project 2
+ _textjure project 1
+ _subrosa project 2
+ _lychrels project 2
+ _fleetdb project 2
+ _clojure-web-deploy-conj project 2
+ _fleetdb-client project 2
+ _clj-doc project 2
+ _kurtharriger-emacs project 3
+ _clojure-mode project 2
+ _clargon project 3
+ _seajure project 2
+ _leiningen project 1
+ _unit_test project 1
+ _decorate project 2
+ _clutch project 2
+ _infer project 2
+ _clojure101 project 2
+ _adder project 2
+ _ring-json-params project 2
+ _clj-mockito project 1
+ _skyway project 4
+ _Clojure-MacOSX project 3
+ _clojure-hadoop project 1
+ _sfteepee project 2
+ _mire project 1
+ _sandbar project 2
+ _orolo project 1
+ _lein-clojars project 3
+ _clj-github project 2
+ _Repl project 3
+ _programming-clojure project 1
+ _ring project 2
+ _clojure.osgi project 3
+ _clojure-contrib project 0
+ _gaka project 3
+ _clojure-over-ajax project 1
+ _sdb project 3
+ _swank-clojure project 2
+ _marginalia project 1
+ _text2epub-clj project 4
+ _clojure-json project 2
+ _work project 2
+ _cljr project 1
+ _cascalog project 4
+ _lein-javac project 4
+ _redis-clojure project 3
+ _aleph project 2
+ _cd-wsapi project 2
+ _slice project 2
+ _clj-facebook project 1
+ _tokyocabinet project 2
+ _cache-dot-clj project 2
+ _clj-swing project 2
+ _cljs project 3
+ _cdt project 3
+ _ring-mongrel2-adapter project 2
+ _osc-clj project 4
+ _cuke4duke project 3
+ _clojure-google-ai-pack project 3
+ _clj-doc-test project 2
+ _clj-yaml project 2
+ _clojure-protobuf project 1
+ _polyglot-maven project 3
+ _tic-tac-toe project 3
+ _compojure.org project 1
+ _analemma project 2
+ _clj-http project 3
+ _clj-json project 2
+ _ClojureX project 2
+ _saturnine project 4
+ _midi-clj project 3
+ _Pivotal-Panorama project 2
+ _enlive project 2
+ _clojure-zmq project 3
+ _adqc project 1
+ _stupiddb project 2
+ _clj-ga-salesman project 3
+ _guestbook-clj project 3
+ _enlive-tutorial project 3
+ _agraph-java-client project 3
+ _lein-tar project 1
+ _ai-contest-planet-wars-clj project 2
+ _incanter project 2
+ _pallet-examples project 3
+ _ccw project 1
+ _clj-html project 2
+ _lein-search project 2
+ _cd-client project 2
+ _appengine-clj project 2
+ _clouddemo project 2
+ _lein-release project 1
+ _cake project 1
+ _karras-bookmarks project 2
+ _irclj project 2
+ _lambda-tone project 3
+ _lancet project 2
+ _classlojure project 1
+ _clojure-koans project 2
+ _speclj project 2
+ _rdfm project 1
+ _MiniJava project 2
+ _atticus project 2
+ _clj-time project 2
+ _clj-monome-serial project 2
+ _native-deps project 2
+ _lein-cuke project 4
+ _mailindex project 2
+ _clj-sandbox project 2
+ _clj-apache-http project 2
+ _trafficdb project 1
+ _compojure-gae project 3
+ _clj-mql project 2
+ _lein-gae project 2
+ _MCMS project 1
+ _mmemail project 3
+ _labrepl project 1
+ _clj-fluiddb project 3
+ _clj-ssh project 2
+ _hiccup project 1
+ _sexpbot project 2
+ _clj-record project 3
+ _cxr project 3
+ _fitnesse project 4
+ _pallet-crates project 2
+ _clojure-quickstart project 2
+ _clj-serializer project 2
+ _clojure-maven-plugin project 2
+ _paredit.clj project 2
+ _data.finger-tree project 0
+ _clojure-quiz project 2
+ _compojure project 1
+ _SICPExerciseSolutions project 4
+ _clojure-useful project 1
+ _clork project 2
+ _clojure-opennlp project 1
+ _lein-ring project 1
+ _lein-junit project 5
+ _cascalog-demo project 4
+ _piranha project 2
+ _clj-processing project 3
+ _clojureql project 2
+*Tie data
+from to contribution
+stuarthalloway _Conjure 1
+troussan _Conjure 2
+jimm _Conjure 3
+robertpostill _Conjure 4
+macourtney _Conjure 5
+mozinator _byte-spec 4
+rosejn _byte-spec 5
+amalloy _clojail 4
+Raynes _clojail 5
+djpowell _clojure-clr 3
+kurtschelfthout _clojure-clr 4
+dmiller _clojure-clr 5
+aking _penumbra 1
+lancepantz _penumbra 1
+snoury _penumbra 2
+rosado _penumbra 3
+mva _penumbra 4
+ztellman _penumbra 5
+otfrom _pallet 1
+r0man _pallet 1
+emonty _pallet 1
+jclouds _pallet 1
+juergenhoetzel _pallet 1
+tbatchelli _pallet 2
+davidsantiago _pallet 3
+cemerick _pallet 4
+hugoduncan _pallet 5
+ghoseb _clj 4
+liebke _clj 5
+aria42 _text-ann 4
+aria42test _text-ann 5
+dakrone _clj-swingrepl 3
+akhudek _clj-swingrepl 4
+alandipert _clj-swingrepl 5
+amouat _epcchckspc 4
+bardobrze _epcchckspc 5
+nathanmarz _zilch 4
+dysinger _zilch 5
+joodie _clj-sql 4
+alienscience _clj-sql 5
+sramsay _nth 4
+pjt _nth 5
+tebeka _apricot-soup 4
+antoniogarrote _apricot-soup 5
+aria42test _mochi 4
+aria42 _mochi 5
+amalloy _clojurebot 2
+technomancy _clojurebot 3
+Chousuke _clojurebot 4
+hiredman _clojurebot 5
+ggramlich _fitnessebacklogfixes 3
+abyx _fitnessebacklogfixes 1
+benfulton _fitnessebacklogfixes 1
+LupusDei _fitnessebacklogfixes 4
+darrinholst _fitnessebacklogfixes 1
+gojko _fitnessebacklogfixes 1
+jediwhale _fitnessebacklogfixes 1
+clare _fitnessebacklogfixes 1
+schmax _fitnessebacklogfixes 1
+timander _fitnessebacklogfixes 1
+jhannes _fitnessebacklogfixes 1
+johnpaulett _fitnessebacklogfixes 1
+unclebob _fitnessebacklogfixes 5
+oc _fitnessebacklogfixes 1
+benilovj _fitnessebacklogfixes 1
+pkuznets _fitnessebacklogfixes 1
+marisaseal _fitnessebacklogfixes 1
+liberty _fitnessebacklogfixes 1
+TrevorBender _fitnessebacklogfixes 1
+MarkusGaertner _fitnessebacklogfixes 2
+i-m-fit-r-u _fitnessebacklogfixes 1
+velaskec _fitnessebacklogfixes 1
+pal _fitnessebacklogfixes 1
+chellmuth _fitnessebacklogfixes 1
+isidore _fitnessebacklogfixes 1
+deanwampler _fitnessebacklogfixes 1
+bmabey _Midje 2
+sroccaserra _Midje 3
+wilkes _Midje 4
+marick _Midje 5
+GeorgeJahad _clj-android 4
+remvee _clj-android 5
+joodie _clojure-couchdb 1
+kunley _clojure-couchdb 2
+joubertnel _clojure-couchdb 3
+danlarkin _clojure-couchdb 4
+the-kenny _clojure-couchdb 5
+markokocic _appengine-magic 2
+yn _appengine-magic 3
+bgruber _appengine-magic 4
+gcv _appengine-magic 5
+skuro _http.async.client 3
+vgeshel _http.async.client 4
+neotyk _http.async.client 5
+lrenn _uncle 4
+ninjudd _uncle 5
+vishnugopal _clojure-tmbundle 1
+sumbach _clojure-tmbundle 1
+kek _clojure-tmbundle 2
+nullstyle _clojure-tmbundle 3
+stephenroller _clojure-tmbundle 4
+ppierre _clojure-tmbundle 5
+alandipert _clj-glob 3
+juergenhoetzel _clj-glob 4
+jkk _clj-glob 5
+hlship _clojure 1
+stuartsierra _clojure 4
+mclark _clojure 1
+remleduff _clojure 1
+stuarthalloway _clojure 2
+bpsm _clojure 1
+cgrand _clojure 1
+achim _clojure 1
+tebeka _clojure 1
+hiredman _clojure 1
+weavejester _clojure 1
+cosmin _clojure 1
+kotarak _clojure 1
+rnewman _clojure 1
+dmiller _clojure 1
+abedra _clojure 1
+mikehinchey _clojure 1
+Heffalump _clojure 1
+scgilardi _clojure 3
+dysinger _clojure 1
+abrenk _clojure 1
+bhurt _clojure 1
+arohner _clojure 1
+tomfaulhaber _clojure 1
+drewr _clojure 1
+straszheimjeffrey _clojure 1
+djpowell _clojure 1
+devender _clojure 1
+raek _clojure 1
+Chouser _clojure 1
+ataggart _clojure 1
+liwp _clojure 1
+fsodomka _clojure 1
+cemerick _clojure 1
+technomancy _clojure 1
+richhickey _clojure 5
+pjt _clojure 1
+khinsen _clojure 1
+puredanger _clojure 1
+bsteuber _clojure 1
+fogus _clojure 1
+Engelberg _clojure 1
+timothypratley _clojure 1
+ninjudd _clojure 1
+pmoriarty _lamina 3
+puredanger _lamina 4
+ztellman _lamina 5
+GeorgeJahad _difform 4
+brentonashworth _difform 5
+lrenn _clojars-web 2
+ato _clojars-web 3
+technomancy _clojars-web 4
+scottjad _clojars-web 5
+mt502 _clojure-neo4j 2
+pelle _clojure-neo4j 3
+bobby _clojure-neo4j 4
+JulianMorrison _clojure-neo4j 5
+arbscht _clout 4
+weavejester _clout 5
+mojombo _jakemccrary.com 4
+jakemcc _jakemccrary.com 5
+pepijndevos _overtone 1
+polypus74 _overtone 2
+samaaron _overtone 3
+mozinator _overtone 4
+rosejn _overtone 5
+GeorgeJahad _clojure-android 4
+remvee _clojure-android 5
+rnewman _bunny 4
+icylisper _bunny 5
+soyrochus _ring-httpcore-adapter 1
+sethtrain _ring-httpcore-adapter 2
+mtyaka _ring-httpcore-adapter 3
+weavejester _ring-httpcore-adapter 4
+mmcgrana _ring-httpcore-adapter 5
+ninjudd _lazytest 4
+stuartsierra _lazytest 5
+lancepantz _jiraph 4
+ninjudd _jiraph 5
+pjstadig _lein-difftest 3
+technomancy _lein-difftest 4
+brentonashworth _lein-difftest 5
+pastjean _clostache 3
+santervo _clostache 4
+fhd _clostache 5
+alandipert _in-a-row 4
+jkk _in-a-row 5
+klang _clojureOrbit 3
+LauJensen _clojureOrbit 4
+unclebob _clojureOrbit 5
+rnewman _clojure-rabbitmq 4
+icylisper _clojure-rabbitmq 5
+neotyk _fetcher 4
+bradford _fetcher 5
+marktriggs _clojure-http-client 1
+ghoseb _clojure-http-client 1
+joodie _clojure-http-client 1
+tomo _clojure-http-client 1
+pjt _clojure-http-client 1
+Raynes _clojure-http-client 2
+danlarkin _clojure-http-client 3
+joubertnel _clojure-http-client 4
+technomancy _clojure-http-client 5
+bmabey _karras 2
+sethtrain _karras 3
+ccollins _karras 4
+wilkes _karras 5
+artisonian _hassium 4
+weavejester _hassium 5
+kohsuke _jclouds 1
+kedardave _jclouds 1
+jclouds _jclouds 5
+hugoduncan _jclouds 3
+tbatchelli _jclouds 1
+neotyk _jclouds 1
+rainbowbreeze _jclouds 1
+alexstaytuned _jclouds 4
+mattiasholmqvist _jclouds 1
+andreaturli _jclouds 2
+cemerick _jclouds 1
+technomancy _jclouds 1
+spasam _jclouds 1
+hadashi _jclouds 1
+amalloy _mutt 4
+Raynes _mutt 5
+pepijndevos _cloneit 4
+LauJensen _cloneit 5
+jkk _leiningen-war 1
+jeroenvloothuis _leiningen-war 1
+timothypratley _leiningen-war 1
+thomaslee _leiningen-war 2
+punya _leiningen-war 3
+sethtrain _leiningen-war 4
+alienscience _leiningen-war 5
+purcell _scriptjure 2
+hugoduncan _scriptjure 3
+scottjad _scriptjure 4
+arohner _scriptjure 5
+fogus _tryclojure 2
+apgwoz _tryclojure 3
+Licenser _tryclojure 4
+Raynes _tryclojure 5
+cgrand _autodoc 4
+tomfaulhaber _autodoc 5
+MrHus _textmate-clojure 2
+mmcgrana _textmate-clojure 3
+aria42 _textmate-clojure 4
+swannodette _textmate-clojure 5
+jakemcc _debug-repl 4
+GeorgeJahad _debug-repl 5
+mirakle _testbuilder 4
+ericlavigne _testbuilder 5
+ericlavigne _crane 1
+jclouds _crane 2
+mmcgrana _crane 3
+bradford _crane 4
+jstrate _crane 5
+segohfdc _clj-gae-datastore 2
+greenhornet _clj-gae-datastore 3
+choas _clj-gae-datastore 4
+robinbrandtfdc _clj-gae-datastore 5
+ck _robots 4
+joegallo _robots 5
+rosejn _drift 4
+macourtney _drift 5
+technomancy _clj-stacktrace 1
+weavejester _clj-stacktrace 2
+joegallo _clj-stacktrace 3
+ninjudd _clj-stacktrace 4
+mmcgrana _clj-stacktrace 5
+zehua _clojure-twitter 4
+mikem _clojure-twitter 5
+gmwils _congomongo 1
+Licenser _congomongo 1
+christophermaier _congomongo 2
+arohner _congomongo 3
+purcell _congomongo 4
+somnium _congomongo 5
+honesthacker _vimclojure 3
+drewolson _vimclojure 4
+kotarak _vimclojure 5
+duck1123 _inflections-clj 4
+r0man _inflections-clj 5
+bmabey _circumspec 3
+olabini _circumspec 4
+stuarthalloway _circumspec 5
+goodmike _trammel 4
+fogus _trammel 5
+clojure-build _tools.nrepl 4
+cemerick _tools.nrepl 5
+rstehwien _clj-slick-tank 4
+phtrivier _clj-slick-tank 5
+sethtrain _postal 4
+drewr _postal 5
+klang _clojure-web 4
+abedra _clojure-web 5
+antoniogarrote _clj-ml 4
+bmabey _clj-ml 5
+lancepantz _clojure-solr 4
+mikejs _clojure-solr 5
+zamaterian _clojure-config 4
+drankard _clojure-config 5
+nipra _pallet-lein 4
+hugoduncan _pallet-lein 5
+ninjudd _clj-oauth 1
+kurtharriger _clj-oauth 1
+mattrepl _clj-oauth 2
+Raynes _clj-oauth 3
+rnewman _clj-oauth 4
+pelle _clj-oauth 5
+abrooks _textjure 4
+Chouser _textjure 5
+hiredman _subrosa 1
+technomancy _subrosa 2
+dysinger _subrosa 3
+dakrone _subrosa 4
+danlarkin _subrosa 5
+tcrayford _lychrels 4
+hgavin _lychrels 5
+kotarak _fleetdb 3
+saarons _fleetdb 4
+mmcgrana _fleetdb 5
+jclouds _clojure-web-deploy-conj 4
+cemerick _clojure-web-deploy-conj 5
+BestFriendChris _fleetdb-client 4
+mmcgrana _fleetdb-client 5
+davidsantiago _clj-doc 4
+budu _clj-doc 5
+superbobry _kurtharriger-emacs 1
+mkhl _kurtharriger-emacs 1
+mattrepl _kurtharriger-emacs 1
+defunkt _kurtharriger-emacs 3
+hugoduncan _kurtharriger-emacs 1
+LauJensen _kurtharriger-emacs 1
+tav _kurtharriger-emacs 1
+Yasushi _kurtharriger-emacs 1
+jochu _kurtharriger-emacs 2
+rpl _kurtharriger-emacs 1
+hircus _kurtharriger-emacs 1
+mjm _kurtharriger-emacs 1
+kurtharriger _kurtharriger-emacs 1
+bard _kurtharriger-emacs 5
+rmm5t _kurtharriger-emacs 1
+orlandodarhill _kurtharriger-emacs 1
+tayssir _kurtharriger-emacs 1
+raek _kurtharriger-emacs 1
+thraxil _kurtharriger-emacs 1
+burke _kurtharriger-emacs 1
+technomancy _kurtharriger-emacs 4
+duck1123 _kurtharriger-emacs 1
+josh _kurtharriger-emacs 1
+michalmarczyk _kurtharriger-emacs 1
+rubbish _kurtharriger-emacs 1
+mattrepl _clojure-mode 1
+jeffvalk _clojure-mode 1
+hugoduncan _clojure-mode 1
+LauJensen _clojure-mode 1
+scramjet _clojure-mode 1
+jochu _clojure-mode 4
+hircus _clojure-mode 1
+mjm _clojure-mode 1
+samaaron _clojure-mode 1
+juergenhoetzel _clojure-mode 1
+digash _clojure-mode 3
+tayssir _clojure-mode 1
+raek _clojure-mode 2
+thraxil _clojure-mode 1
+technomancy _clojure-mode 5
+duck1123 _clojure-mode 1
+michalmarczyk _clojure-mode 1
+rubbish _clojure-mode 1
+pjstadig _clojure-mode 1
+ninjudd _clojure-mode 1
+amalloy _clargon 4
+gar3thjon3s _clargon 5
+offby1 _seajure 1
+abscondment _seajure 2
+cgrand _seajure 3
+hiredman _seajure 4
+technomancy _seajure 5
+scode _leiningen 1
+hlship _leiningen 1
+ivey _leiningen 1
+dakrone _leiningen 1
+ihodes _leiningen 1
+mattrepl _leiningen 1
+trptcolin _leiningen 2
+wmorganjr _leiningen 1
+Serabe _leiningen 1
+danlarkin _leiningen 3
+mtyaka _leiningen 4
+mmcgrana _leiningen 1
+drt _leiningen 1
+pmbauer _leiningen 1
+stuarthalloway _leiningen 1
+bpsm _leiningen 1
+maravillas _leiningen 1
+hugoduncan _leiningen 1
+rzezeski _leiningen 1
+zehua _leiningen 1
+mikedouglas _leiningen 1
+bobby _leiningen 1
+rnewman _leiningen 1
+robwolfe _leiningen 1
+neotyk _leiningen 1
+sumbach _leiningen 1
+purcell _leiningen 1
+alexott _leiningen 1
+arohner _leiningen 1
+lozh _leiningen 1
+abscondment _leiningen 1
+alandipert _leiningen 1
+joegallo _leiningen 1
+johnwayner _leiningen 1
+stevej _leiningen 1
+glynnm _leiningen 1
+technomancy _leiningen 5
+bagucode _leiningen 1
+pjt _leiningen 1
+michalmarczyk _leiningen 1
+pjstadig _leiningen 1
+adragomir _leiningen 1
+travis _leiningen 1
+wilkes _leiningen 1
+teropa _leiningen 1
+tyler _unit_test 4
+tomfaulhaber _unit_test 5
+davidsantiago _decorate 4
+weavejester _decorate 5
+davidsantiago _clutch 1
+mattdw _clutch 2
+hugoduncan _clutch 3
+cemerick _clutch 4
+ashafa _clutch 5
+aria42test _infer 1
+aria42 _infer 2
+mmcgrana _infer 3
+bradford _infer 4
+hamilton _infer 5
+ghoseb _clojure101 2
+ericlavigne _clojure101 3
+citizen428 _clojure101 4
+michalmarczyk _clojure101 5
+klang _adder 4
+mmcgrana _adder 5
+zamaterian _ring-json-params 4
+mmcgrana _ring-json-params 5
+alandipert _clj-mockito 4
+dakrone _clj-mockito 5
+pupeno _skyway 1
+chrisvest _skyway 1
+burke _skyway 1
+lrenn _skyway 2
+budu _skyway 3
+arohner _skyway 4
+weavejester _skyway 5
+shaug _Clojure-MacOSX 1
+mreid _Clojure-MacOSX 2
+carlism _Clojure-MacOSX 3
+paulrosania _Clojure-MacOSX 4
+citizen428 _Clojure-MacOSX 5
+alexott _clojure-hadoop 3
+r0man _clojure-hadoop 4
+stuartsierra _clojure-hadoop 5
+ccollins _sfteepee 4
+sethtrain _sfteepee 5
+jamiltron _mire 3
+redinger _mire 4
+technomancy _mire 5
+arohner _sandbar 3
+budu _sandbar 4
+brentonashworth _sandbar 5
+stuarthalloway _orolo 4
+glv _orolo 5
+technomancy _lein-clojars 2
+ato _lein-clojars 3
+nipra _lein-clojars 4
+mmcgrana _lein-clojars 5
+ohpauleez _clj-github 4
+Raynes _clj-github 5
+kaitanie _Repl 4
+hiredman _Repl 5
+Chouser _programming-clojure 4
+stuarthalloway _programming-clojure 5
+sethtrain _ring 1
+ugglan _ring 1
+mmcgrana _ring 5
+pepijndevos _ring 1
+stuarthalloway _ring 1
+davidsantiago _ring 1
+cgrand _ring 3
+macourtney _ring 1
+weavejester _ring 4
+rnewman _ring 2
+arohner _ring 1
+arsatiki _ring 1
+yn _ring 1
+lloydhome _ring 1
+andrewvc _ring 1
+soyrochus _ring 1
+teropa _ring 1
+splix _clojure.osgi 3
+laurentpetit _clojure.osgi 4
+aav _clojure.osgi 5
+hlship _clojure-contrib 1
+stuartsierra _clojure-contrib 5
+mclark _clojure-contrib 1
+stuarthalloway _clojure-contrib 1
+bpsm _clojure-contrib 1
+cgrand _clojure-contrib 1
+hiredman _clojure-contrib 1
+dmiller _clojure-contrib 1
+mikehinchey _clojure-contrib 1
+scgilardi _clojure-contrib 4
+abrenk _clojure-contrib 1
+tomfaulhaber _clojure-contrib 2
+straszheimjeffrey _clojure-contrib 1
+Chouser _clojure-contrib 3
+ataggart _clojure-contrib 1
+fsodomka _clojure-contrib 1
+cemerick _clojure-contrib 1
+technomancy _clojure-contrib 1
+richhickey _clojure-contrib 1
+pjt _clojure-contrib 1
+khinsen _clojure-contrib 1
+Engelberg _clojure-contrib 1
+purcell _gaka 4
+briancarper _gaka 5
+abedra _clojure-over-ajax 4
+weavejester _clojure-over-ajax 5
+technomancy _sdb 3
+richhickey _sdb 4
+erikcw _sdb 5
+hgiddens _swank-clojure 1
+stuartsierra _swank-clojure 1
+mattrepl _swank-clojure 1
+the-kenny _swank-clojure 1
+jeffvalk _swank-clojure 1
+TerjeNorderhaug _swank-clojure 1
+stuarthalloway _swank-clojure 1
+hugoduncan _swank-clojure 3
+kreg _swank-clojure 1
+rottcodd _swank-clojure 1
+LauJensen _swank-clojure 1
+ubolonton _swank-clojure 1
+mehrheit _swank-clojure 1
+jochu _swank-clojure 5
+cosmin _swank-clojure 1
+whalliburton _swank-clojure 1
+gilaras _swank-clojure 1
+shoover _swank-clojure 1
+scottjad _swank-clojure 1
+purcell _swank-clojure 1
+ztellman _swank-clojure 1
+dysinger _swank-clojure 1
+alexott _swank-clojure 1
+swannodette _swank-clojure 1
+drewr _swank-clojure 1
+fbreuer _swank-clojure 1
+juergenhoetzel _swank-clojure 1
+digash _swank-clojure 2
+tayssir _swank-clojure 1
+marktriggs _swank-clojure 1
+joodie _swank-clojure 1
+tcrayford _swank-clojure 1
+dsedivec _swank-clojure 1
+technomancy _swank-clojure 4
+khinsen _swank-clojure 1
+apauley _swank-clojure 1
+wilkes _swank-clojure 1
+brentonashworth _marginalia 1
+ninjudd _marginalia 2
+budu _marginalia 3
+zkim _marginalia 4
+fogus _marginalia 5
+fukamachi _text2epub-clj 4
+deltam _text2epub-clj 5
+dbishop _clojure-json 2
+technomancy _clojure-json 3
+dysinger _clojure-json 4
+danlarkin _clojure-json 5
+aria42test _work 1
+aria42 _work 2
+erikcw _work 3
+bradford _work 4
+mattrepl _work 5
+ghoseb _cljr 3
+alandipert _cljr 4
+liebke _cljr 5
+ztellman _cascalog 3
+hgavin _cascalog 4
+nathanmarz _cascalog 5
+febeling _lein-javac 3
+r0man _lein-javac 4
+antoniogarrote _lein-javac 5
+ogrisel _redis-clojure 2
+neilmock _redis-clojure 3
+jwr _redis-clojure 4
+ragnard _redis-clojure 5
+markokocic _aleph 1
+brentonashworth _aleph 1
+stuarthalloway _aleph 2
+datskos _aleph 3
+rje _aleph 4
+ztellman _aleph 5
+zkim _cd-wsapi 4
+dakrone _cd-wsapi 5
+arohner _slice 4
+scottjad _slice 5
+stuarthalloway _clj-facebook 3
+abedra _clj-facebook 4
+rnewman _clj-facebook 5
+lancepantz _tokyocabinet 4
+ninjudd _tokyocabinet 5
+the-kenny _cache-dot-clj 4
+alienscience _cache-dot-clj 5
+kaitanie _clj-swing 3
+sammyt _clj-swing 4
+Licenser _clj-swing 5
+hugoduncan _cljs 4
+tbatchelli _cljs 5
+vu3rdd _cdt 4
+GeorgeJahad _cdt 5
+mikejs _ring-mongrel2-adapter 4
+bobby _ring-mongrel2-adapter 5
+mozinator _osc-clj 2
+mw10013 _osc-clj 3
+samaaron _osc-clj 4
+rosejn _osc-clj 5
+josephwilk _cuke4duke 1
+bmabey _cuke4duke 1
+jesperronn _cuke4duke 1
+darrinholst _cuke4duke 1
+olabini _cuke4duke 1
+senny _cuke4duke 1
+stuarthalloway _cuke4duke 1
+jbarreneche _cuke4duke 1
+henningjensen _cuke4duke 1
+ovstetun _cuke4duke 2
+torbjornvatn _cuke4duke 4
+richardlawrence _cuke4duke 1
+mjul _cuke4duke 1
+oc _cuke4duke 3
+gaffo _cuke4duke 1
+champness _cuke4duke 1
+nealeoc _cuke4duke 1
+rapaul _cuke4duke 1
+teigen _cuke4duke 1
+hugojosefson _cuke4duke 1
+aslakhellesoy _cuke4duke 5
+antifun _cuke4duke 1
+dhomann _cuke4duke 1
+babo _clojure-google-ai-pack 4
+issuu _clojure-google-ai-pack 5
+amalloy _clj-doc-test 4
+Kobold _clj-doc-test 5
+mmcgrana _clj-yaml 4
+lancepantz _clj-yaml 5
+lancepantz _clojure-protobuf 4
+ninjudd _clojure-protobuf 5
+mkristian _polyglot-maven 4
+headius _polyglot-maven 1
+sonatype _polyglot-maven 1
+mmikulicic _polyglot-maven 1
+talios _polyglot-maven 3
+jdillon _polyglot-maven 5
+dhanji _polyglot-maven 1
+hseeberger _polyglot-maven 1
+bmaso _polyglot-maven 1
+matthewmccullough _polyglot-maven 1
+martinmcnulty _polyglot-maven 1
+bentmann _polyglot-maven 2
+Corie _tic-tac-toe 4
+ericlavigne _tic-tac-toe 5
+budu _compojure.org 4
+weavejester _compojure.org 5
+redinger _analemma 4
+liebke _analemma 5
+senior _clj-http 4
+mmcgrana _clj-http 5
+lancepantz _clj-json 2
+dakrone _clj-json 3
+remvee _clj-json 4
+mmcgrana _clj-json 5
+mreid _ClojureX 1
+shaug _ClojureX 2
+carlism _ClojureX 3
+paulrosania _ClojureX 4
+citizen428 _ClojureX 5
+antoniogarrote _saturnine 4
+davidsantiago _saturnine 5
+mozinator _midi-clj 4
+rosejn _midi-clj 5
+ccollins _Pivotal-Panorama 4
+wilkes _Pivotal-Panorama 5
+cemerick _enlive 1
+swannodette _enlive 2
+marccroom _enlive 3
+hugoduncan _enlive 4
+cgrand _enlive 5
+mikejs _clojure-zmq 4
+jholloway7 _clojure-zmq 5
+bardobrze _adqc 4
+michalmarczyk _adqc 5
+Raynes _stupiddb 3
+MayDaniel _stupiddb 4
+Licenser _stupiddb 5
+rrees _clj-ga-salesman 4
+hdurer _clj-ga-salesman 5
+choas _guestbook-clj 4
+duelinmarkers _guestbook-clj 5
+manutter51 _enlive-tutorial 3
+edbond _enlive-tutorial 4
+swannodette _enlive-tutorial 5
+rnewman _agraph-java-client 2
+marijnh _agraph-java-client 3
+mikehinchey _agraph-java-client 4
+BruceDClayton _agraph-java-client 5
+danlarkin _lein-tar 4
+technomancy _lein-tar 5
+babo _ai-contest-planet-wars-clj 4
+ihodes _ai-contest-planet-wars-clj 5
+markmfredrickson _incanter 2
+Kaali _incanter 1
+leungwk _incanter 1
+fiatmoney _incanter 1
+jstrate _incanter 1
+bradford _incanter 1
+purcell _incanter 1
+jpalmucci _incanter 1
+regularfry _incanter 1
+alexott _incanter 3
+abscondment _incanter 1
+tomfaulhaber _incanter 1
+fbreuer _incanter 1
+liebke _incanter 5
+davidjameshumphreys _incanter 4
+cburroughs _incanter 1
+technomancy _incanter 1
+jakemcc _incanter 1
+jclouds _pallet-examples 3
+hugoduncan _pallet-examples 4
+tbatchelli _pallet-examples 5
+cemerick _ccw 1
+cgrand _ccw 1
+manuel-woelker _ccw 2
+smuehlst _ccw 3
+miaubiz _ccw 4
+laurentpetit _ccw 5
+achin _clj-html 4
+mmcgrana _clj-html 5
+technomancy _lein-search 3
+Licenser _lein-search 4
+purcell _lein-search 5
+zkim _cd-client 4
+dakrone _cd-client 5
+christianberg _appengine-clj 1
+choas _appengine-clj 1
+triddell _appengine-clj 1
+tebeka _appengine-clj 1
+quek _appengine-clj 1
+fukamachi _appengine-clj 2
+jeandenis _appengine-clj 3
+duelinmarkers _appengine-clj 4
+r0man _appengine-clj 5
+alexstaytuned _clouddemo 1
+hugoduncan _clouddemo 1
+shykes _clouddemo 2
+dje _clouddemo 3
+jclouds _clouddemo 4
+geoffsalmon _clouddemo 5
+danlarkin _lein-release 4
+technomancy _lein-release 5
+yn _cake 1
+marvinthepa _cake 1
+LauJensen _cake 1
+rickmode _cake 1
+amalloy _cake 1
+davidsantiago _cake 2
+Raynes _cake 3
+lancepantz _cake 4
+ninjudd _cake 5
+wilkes _karras-bookmarks 3
+bmabey _karras-bookmarks 4
+sethtrain _karras-bookmarks 5
+raek _irclj 4
+Raynes _irclj 5
+rosejn _lambda-tone 4
+samaaron _lambda-tone 5
+macourtney _lancet 4
+stuarthalloway _lancet 5
+lancepantz _classlojure 4
+ninjudd _classlojure 5
+slagyr _clojure-koans 1
+citizen428 _clojure-koans 2
+ericlavigne _clojure-koans 3
+abedra _clojure-koans 4
+trptcolin _clojure-koans 5
+trptcolin _speclj 4
+slagyr _speclj 5
+stuartsierra _rdfm 4
+richhickey _rdfm 5
+takikawa _MiniJava 4
+mikedouglas _MiniJava 5
+pmoriarty _atticus 4
+hugoduncan _atticus 5
+swannodette _clj-time 1
+digash _clj-time 1
+hgiddens _clj-time 1
+aria42 _clj-time 1
+Raynes _clj-time 1
+aria42test _clj-time 2
+davidsantiago _clj-time 3
+mattrepl _clj-time 4
+mmcgrana _clj-time 5
+rosejn _clj-monome-serial 4
+samaaron _clj-monome-serial 5
+ztellman _native-deps 4
+swannodette _native-deps 5
+wilkes _lein-cuke 3
+travis _lein-cuke 4
+mjul _lein-cuke 5
+ato _mailindex 4
+marktriggs _mailindex 5
+Raynes _clj-sandbox 4
+Licenser _clj-sandbox 5
+Raynes _clj-apache-http 4
+rnewman _clj-apache-http 5
+lancepantz _trafficdb 4
+ninjudd _trafficdb 5
+budu _compojure-gae 3
+chrisvest _compojure-gae 1
+weavejester _compojure-gae 5
+rnewman _compojure-gae 1
+mmikulicic _compojure-gae 1
+abedra _compojure-gae 1
+arohner _compojure-gae 4
+tcrayford _compojure-gae 1
+blinks _compojure-gae 1
+cemerick _compojure-gae 1
+pupeno _compojure-gae 1
+choas _compojure-gae 1
+mtnygard _compojure-gae 1
+lrenn _compojure-gae 2
+r0man _clj-mql 4
+rnewman _clj-mql 5
+hiredman _lein-gae 4
+the-kenny _lein-gae 5
+blesslee _MCMS 4
+remleduff _MCMS 5
+azriphale _mmemail 4
+slagyr _mmemail 5
+fhd _labrepl 1
+trptcolin _labrepl 1
+jackdempsey _labrepl 1
+stuarthalloway _labrepl 5
+shoover _labrepl 1
+clarkware _labrepl 2
+spicycode _labrepl 1
+abedra _labrepl 4
+mwizeman _labrepl 1
+alexott _labrepl 1
+citizen428 _labrepl 3
+jondistad _labrepl 1
+richhickey _labrepl 1
+adamfixflyer _labrepl 1
+hdurer _clj-fluiddb 4
+hugoduncan _clj-fluiddb 5
+cemerick _clj-ssh 3
+juergenhoetzel _clj-ssh 4
+hugoduncan _clj-ssh 5
+joodie _hiccup 1
+geoffsalmon _hiccup 1
+ericlavigne _hiccup 2
+budu _hiccup 3
+arohner _hiccup 4
+weavejester _hiccup 5
+ninjudd _sexpbot 1
+ghoseb _sexpbot 1
+jColeChanged _sexpbot 1
+pepijndevos _sexpbot 1
+ivey _sexpbot 1
+programble _sexpbot 2
+boredomist _sexpbot 3
+amalloy _sexpbot 4
+Raynes _sexpbot 5
+vishnu _clj-record 1
+digash _clj-record 1
+heyZeus _clj-record 1
+duck1123 _clj-record 1
+doooks _clj-record 1
+jimm _clj-record 2
+macourtney _clj-record 3
+ashafa _clj-record 4
+duelinmarkers _clj-record 5
+icylisper _cxr 4
+abhijith _cxr 5
+ggramlich _fitnesse 3
+abyx _fitnesse 1
+benfulton _fitnesse 1
+LupusDei _fitnesse 4
+darrinholst _fitnesse 1
+gojko _fitnesse 1
+jediwhale _fitnesse 2
+clare _fitnesse 1
+schmax _fitnesse 1
+timander _fitnesse 1
+jhannes _fitnesse 1
+johnpaulett _fitnesse 1
+unclebob _fitnesse 5
+oc _fitnesse 1
+benilovj _fitnesse 1
+pkuznets _fitnesse 1
+marisaseal _fitnesse 1
+liberty _fitnesse 1
+TrevorBender _fitnesse 1
+MarkusGaertner _fitnesse 1
+i-m-fit-r-u _fitnesse 1
+velaskec _fitnesse 1
+pal _fitnesse 1
+chellmuth _fitnesse 1
+isidore _fitnesse 1
+deanwampler _fitnesse 1
+otfrom _pallet-crates 1
+emonty _pallet-crates 1
+jclouds _pallet-crates 1
+juergenhoetzel _pallet-crates 1
+tbatchelli _pallet-crates 2
+davidsantiago _pallet-crates 3
+cemerick _pallet-crates 4
+hugoduncan _pallet-crates 5
+nullstyle _clojure-quickstart 4
+fred-o _clojure-quickstart 5
+bradford _clj-serializer 4
+mmcgrana _clj-serializer 5
+scode _clojure-maven-plugin 1
+stuartsierra _clojure-maven-plugin 1
+xeqi _clojure-maven-plugin 1
+hugoduncan _clojure-maven-plugin 4
+nullstyle _clojure-maven-plugin 2
+dm3 _clojure-maven-plugin 1
+fred-o _clojure-maven-plugin 1
+talios _clojure-maven-plugin 5
+sumbach _clojure-maven-plugin 1
+senior _clojure-maven-plugin 1
+wg _clojure-maven-plugin 1
+dysinger _clojure-maven-plugin 1
+rstehwien _clojure-maven-plugin 1
+cemerick _clojure-maven-plugin 3
+duck1123 _clojure-maven-plugin 1
+puredanger _clojure-maven-plugin 1
+pmoriarty _clojure-maven-plugin 1
+humphrej _clojure-maven-plugin 1
+miaubiz _paredit.clj 4
+laurentpetit _paredit.clj 5
+clojure-build _data.finger-tree 4
+Chouser _data.finger-tree 5
+Raynes _clojure-quiz 4
+pepijndevos _clojure-quiz 5
+budu _compojure 3
+chrisvest _compojure 1
+weavejester _compojure 5
+rnewman _compojure 1
+mmikulicic _compojure 1
+abedra _compojure 1
+arohner _compojure 4
+hjiang _compojure 1
+tcrayford _compojure 1
+blinks _compojure 1
+cemerick _compojure 1
+pupeno _compojure 1
+mtnygard _compojure 1
+lrenn _compojure 2
+chicagoscala _SICPExerciseSolutions 4
+deanwampler _SICPExerciseSolutions 5
+lancepantz _clojure-useful 3
+amalloy _clojure-useful 4
+ninjudd _clojure-useful 5
+otfrom _clork 4
+tcrayford _clork 5
+arohner _clojure-opennlp 4
+dakrone _clojure-opennlp 5
+ericlavigne _lein-ring 4
+weavejester _lein-ring 5
+r0man _lein-junit 4
+febeling _lein-junit 5
+ogrisel _cascalog-demo 4
+nathanmarz _cascalog-demo 5
+wilkes _piranha 4
+sethtrain _piranha 5
+technomancy _clj-processing 3
+mva _clj-processing 4
+rosado _clj-processing 5
+doooks _clojureql 1
+budu _clojureql 1
+mclark _clojureql 1
+bendlas _clojureql 1
+ninjudd _clojureql 2
+ck _clojureql 3
+r0man _clojureql 4
+LauJensen _clojureql 5
